@@ -1,7 +1,33 @@
-MAQUINA VIRTUAL: BADSTORE ‐ VULNERABILIDADES SQL
+Bienvenido a nuestro repositorio dedicado a facilitar material para prácticas éticas de pentesting utilizando máquinas virtuales (VM) en VirtualBox. Aquí encontrarás recursos esenciales para desarrollar tus habilidades en seguridad informática de manera ética y responsable.
 
-Welcome to the Machines wiki! Greetings to the cybersecurity community! This repository is dedicated to the BADSTORE, a specially crafted machine with SQL vulnerabilities to provide an interactive practice platform. The primary purpose is to provide a controlled environment where cybersecurity enthusiasts can learn and hone their skills by ethically exploring and exploiting SQL vulnerabilities. This initiative aims to provide valuable educational resources to better understand threats and strengthen security. It is essential to remember that any activity related to this repository must be carried out in authorized environments and with the explicit consent of the system owner. Immerse yourself in the challenge, hone your skills and contribute to strengthening cybersecurity!
+Contenido del Repositorio:
 
-DOWNLOAD INSTRUCTIONS WITH VIRTUAL MACHINE ISO IN: VMBADSTORE.pdf
+Máquinas Virtuales Configuradas:
 
-![284943590-d72fb113-6e56-4598-a39c-2e6f98560c2a](https://github.com/bochita08/Machines/assets/127541271/b4d2ac7f-27c0-4d4a-8573-017e98a40278)
+Proporcionamos máquinas virtuales preconfiguradas con entornos de pentesting, que incluyen sistemas operativos específicamente diseñados para pruebas de seguridad.
+Imágenes ISO de Sistemas Operativos:
+
+Encontrarás imágenes ISO de sistemas operativos populares utilizados en el ámbito de la seguridad, listas para ser instaladas en tus máquinas virtuales.
+Herramientas de Pentesting:
+
+Recopilamos y mantenemos una colección de herramientas de pentesting esenciales para que puedas realizar evaluaciones de seguridad de manera efectiva.
+Guías y Tutoriales:
+
+Publicamos guías detalladas y tutoriales paso a paso para ayudarte a configurar, utilizar y comprender las herramientas y escenarios de pentesting que ofrecemos.
+Prácticas Éticas y Normas de Conducta:
+
+Fomentamos la ética y la responsabilidad en la práctica del pentesting. Proporcionamos directrices sobre el uso ético de estas herramientas y alentamos el respeto a la privacidad y la legalidad.
+Objetivo del Repositorio:
+
+El propósito principal de este repositorio es facilitar un entorno de aprendizaje seguro y controlado para aquellos que deseen mejorar sus habilidades en pentesting. Queremos fomentar el desarrollo de profesionales de seguridad informática éticos y concientizar sobre la importancia de utilizar estas habilidades de manera responsable.
+
+Contribuciones y Colaboración:
+
+Apreciamos y alentamos las contribuciones de la comunidad. Si tienes nuevas máquinas virtuales, herramientas o tutoriales para agregar, no dudes en realizar una solicitud de extracción. Mantenemos un ambiente de colaboración abierto y constructivo.
+
+¡Esperamos que este repositorio sea de utilidad para tu desarrollo en el emocionante mundo de la seguridad informática! Recuerda siempre practicar de manera ética y respetar las leyes y regulaciones locales.
+
+
+
+
+
